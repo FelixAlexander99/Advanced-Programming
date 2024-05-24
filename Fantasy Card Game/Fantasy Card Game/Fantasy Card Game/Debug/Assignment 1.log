@@ -1,0 +1,12 @@
+﻿  Assignment 1.cpp
+C:\Users\Vlad\Desktop\University files\Year 2\CO2402 - Advanced Programming C++\Assignment 1\Assignment 1\Assignment 1\Assignment 1.cpp(224,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Vlad\Desktop\University files\Year 2\CO2402 - Advanced Programming C++\Assignment 1\Assignment 1\Assignment 1\Assignment 1.cpp(232,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Vlad\Desktop\University files\Year 2\CO2402 - Advanced Programming C++\Assignment 1\Assignment 1\Assignment 1\Assignment 1.cpp(242,63): warning C4244: 'argument': conversion from 'unsigned int' to 'const float', possible loss of data
+C:\Users\Vlad\Desktop\University files\Year 2\CO2402 - Advanced Programming C++\Assignment 1\Assignment 1\Assignment 1\Assignment 1.cpp(243,66): warning C4244: 'argument': conversion from 'unsigned int' to 'const float', possible loss of data
+C:\Users\Vlad\Desktop\University files\Year 2\CO2402 - Advanced Programming C++\Assignment 1\Assignment 1\Assignment 1\Assignment 1.cpp(264,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Vlad\Desktop\University files\Year 2\CO2402 - Advanced Programming C++\Assignment 1\Assignment 1\Assignment 1\Assignment 1.cpp(272,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Vlad\Desktop\University files\Year 2\CO2402 - Advanced Programming C++\Assignment 1\Assignment 1\Assignment 1\Assignment 1.cpp(282,66): warning C4244: 'argument': conversion from 'unsigned int' to 'const float', possible loss of data
+C:\Users\Vlad\Desktop\University files\Year 2\CO2402 - Advanced Programming C++\Assignment 1\Assignment 1\Assignment 1\Assignment 1.cpp(283,63): warning C4244: 'argument': conversion from 'unsigned int' to 'const float', possible loss of data
+C:\Users\Vlad\Desktop\University files\Year 2\CO2402 - Advanced Programming C++\Assignment 1\Assignment 1\Assignment 1\Assignment 1.cpp(82,17): warning C4101: 'stringToNumber': unreferenced local variable
+C:\Users\Vlad\Desktop\University files\Year 2\CO2402 - Advanced Programming C++\Assignment 1\Assignment 1\Assignment 1\Assignment 1.cpp(139,17): warning C4101: 'stringToNumber': unreferenced local variable
+  Assignment 1.vcxproj -> C:\Users\Vlad\Desktop\University files\Year 2\CO2402 - Advanced Programming C++\Assignment 1\Assignment 1\Debug\Assignment 1.exe
