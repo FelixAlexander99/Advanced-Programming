@@ -1,4 +1,3 @@
-#Advanced-Programming
 Advanced C++ Learning Repository
 
 This repository contains a collection of C++ programs developed while exploring more advanced topics and programming concepts. The code goes beyond the basics to demonstrate practical applications of algorithms, memory management, object-oriented design, and data structures.
